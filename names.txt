@@ -3,5 +3,6 @@ public class names{
 public static void main(string[] args)(
 system.out.println("abc");
 system.out.println("123");
+system.out.println("calculator");
 }
 }
